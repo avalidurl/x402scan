@@ -43,7 +43,7 @@ export const Integrations = () => {
           title="Every x402 Resource"
           description="Do you manage an API and want to attract more agentic commerce users? We can help you get started."
           cta={
-            <a href="mailto:info@merit.systems" target="_blank">
+            <a href="mailto:contact@gokhan.vc" target="_blank">
               <Button className="w-fit">Work With Us</Button>
             </a>
           }

@@ -223,7 +223,7 @@ export const PartnerCollapsible = ({
           <Input
             id="partnerEmail"
             type="email"
-            placeholder="partner@example.com"
+            placeholder="contact@gokhan.vc"
             value={partnerEmail}
             onChange={e => setPartnerEmail(e.target.value)}
           />

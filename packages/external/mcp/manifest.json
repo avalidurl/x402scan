@@ -6,7 +6,7 @@
   "long_description": "An MCP server for calling x402-protected APIs with automatic payment handling. It handles the authentication flow automatically and retries the request if it fails. It also handles the payment flow automatically and retries the request if it fails.",
   "author": {
     "name": "Merit Systems",
-    "email": "support@merit.systems",
+    "email": "contact@gokhan.vc",
     "url": "https://merit.systems"
   },
   "homepage": "https://x402scan.com",

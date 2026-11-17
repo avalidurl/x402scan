@@ -59,12 +59,12 @@ In my openapi.json, add or update the top-level "info" object to include a "cont
     "title": "...",
     "version": "...",
     "contact": {
-      "email": "me@example.com"
+      "email": "contact@gokhan.vc"
     }
   }
 }
 
-Replace me@example.com with my actual email. This is part of the standard OpenAPI 3.x spec (info.contact.email). Do not remove any existing fields — just add the contact object if missing.`;
+Replace contact@gokhan.vc with my actual email. This is part of the standard OpenAPI 3.x spec (info.contact.email). Do not remove any existing fields — just add the contact object if missing.`;
 
 interface ManualRegistrationResult {
   success: true;
@@ -875,7 +875,7 @@ function PostRegistrationDialog({
                     type="text"
                     inputMode="email"
                     autoComplete="email"
-                    placeholder="you@example.com"
+                    placeholder="contact@gokhan.vc"
                     value={email}
                     onChange={e => setEmail(e.target.value)}
                     className="flex-1"

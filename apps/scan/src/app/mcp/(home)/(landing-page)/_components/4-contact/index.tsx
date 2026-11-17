@@ -9,7 +9,7 @@ export const Contact = () => {
       </h1>
       <div className="flex gap-2">
         <ClientSelect text="Try the MCP" />
-        <a href="mailto:info@x402scan.com">
+        <a href="mailto:contact@gokhan.vc">
           <Button
             variant="outline"
             size="xl"

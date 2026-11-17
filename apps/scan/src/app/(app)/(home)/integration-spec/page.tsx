@@ -260,7 +260,7 @@ export default function DiscoverySpecPage() {
     "version": "1.0.0",
     "description": "example demo server",
     "x-guidance": "Use POST /api/search for neural web search. Accepts a JSON body with a 'query' field.",
-    "contact": { "email": "you@example.com" }
+    "contact": { "email": "contact@gokhan.vc" }
   },
   "paths": {
     "/api/search": {
@@ -589,10 +589,10 @@ export default function DiscoverySpecPage() {
         <p className="text-sm text-muted-foreground">
           For further questions, contact us at{' '}
           <a
-            href="mailto:merchants@merit.systems"
+            href="mailto:contact@gokhan.vc"
             className="underline hover:no-underline font-medium text-foreground"
           >
-            merchants@merit.systems
+            contact@gokhan.vc
           </a>
           .
         </p>

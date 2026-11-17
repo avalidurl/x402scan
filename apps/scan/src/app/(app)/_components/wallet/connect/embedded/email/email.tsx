@@ -62,7 +62,7 @@ export const EmbeddedWalletEmail: React.FC<Props> = ({ setFlowId }) => {
         <Input
           id="email"
           type="email"
-          placeholder="richard@piedpiper.com"
+          placeholder="contact@gokhan.vc"
           value={email}
           onChange={e => setEmail(e.target.value)}
           disabled={isSigningIn}

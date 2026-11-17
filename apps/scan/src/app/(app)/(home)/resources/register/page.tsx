@@ -46,7 +46,7 @@ export default function RegisterResourcePage() {
                 <Send className="size-3.5" />
               </a>
               <a
-                href="mailto:merchants@merit.systems"
+                href="mailto:contact@gokhan.vc"
                 className="hover:text-foreground transition-colors"
               >
                 <Mail className="size-3.5" />

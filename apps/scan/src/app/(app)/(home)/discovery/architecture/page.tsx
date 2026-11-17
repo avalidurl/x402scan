@@ -319,10 +319,10 @@ export default function ArchitecturePage() {
         <p className="text-sm text-muted-foreground">
           For further questions, contact us at{' '}
           <a
-            href="mailto:merchants@merit.systems"
+            href="mailto:contact@gokhan.vc"
             className="underline hover:no-underline font-medium text-foreground"
           >
-            merchants@merit.systems
+            contact@gokhan.vc
           </a>
           .
         </p>

@@ -206,7 +206,7 @@ We respect IP rights. If you believe content on the Services infringes your copy
 **DMCA Agent:**
 Samuel Ragsdale, CEO, Merit Systems, Inc.
 300 Kent Ave., Ste 604, Brooklyn, NY 11249
-**[copyright@merit.systems](mailto:copyright@merit.systems)**
+**[contact@gokhan.vc](mailto:contact@gokhan.vc)**
 
 ---
 
@@ -250,7 +250,7 @@ Use of the Services is subject to our **Privacy Policy** (incorporated by refere
 
 ## 21. Notices; Electronic Communications
 
-You consent to receive notices electronically. Keep your email address current in your Account. If your last email is invalid or cannot receive notices, our sending still constitutes effective notice. You may send notices to: **[legal@merit.systems](mailto:legal@merit.systems)** and by mail to **224 West 35th Street, Ste 500 #2218, New York, NY 10001**.
+You consent to receive notices electronically. Keep your email address current in your Account. If your last email is invalid or cannot receive notices, our sending still constitutes effective notice. You may send notices to: **[contact@gokhan.vc](mailto:contact@gokhan.vc)** and by mail to **224 West 35th Street, Ste 500 #2218, New York, NY 10001**.
 
 ---
 
@@ -270,7 +270,7 @@ You consent to receive notices electronically. Keep your email address current i
 
 **Merit Systems, Inc.**
 224 West 35th Street, Ste 500 #2218, New York, NY 10001
-**[legal@merit.systems](mailto:legal@merit.systems)**
+**[contact@gokhan.vc](mailto:contact@gokhan.vc)**
 
 ---
 

@@ -36,7 +36,7 @@ function buildConsolidatedPrompt({
     sections.push(`Missing contact email:
 
 Your openapi.json is missing info.contact.email. Add a "contact" object with your email to the top-level "info" field:
-{ "info": { "contact": { "email": "you@example.com" } } }
+{ "info": { "contact": { "email": "contact@gokhan.vc" } } }
 Adding your email lets you verify ownership, allows users to contact you, and lets you customize your merchant pages on tryponcho.com.`);
   }
 

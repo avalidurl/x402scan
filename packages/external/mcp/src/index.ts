@@ -277,7 +277,7 @@ void yargs(hideBin(process.argv))
     }
   )
   .example(
-    '$0 fetch "https://enrichx402.com/api/apollo/people-enrich" -m POST -b \'{"email":"user@example.com"}\'',
+    '$0 fetch "https://enrichx402.com/api/apollo/people-enrich" -m POST -b \'{"email":"contact@gokhan.vc"}\'',
     'Fetch with x402 payment'
   )
   .example(

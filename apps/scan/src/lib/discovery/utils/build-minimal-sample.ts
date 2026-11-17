@@ -38,7 +38,7 @@ function sampleValue(schema: Record<string, unknown>, depth: number): unknown {
     if (schema.format === 'uri' || schema.format === 'url') {
       return 'https://placehold.co/1x1.png';
     }
-    if (schema.format === 'email') return 'test@example.com';
+    if (schema.format === 'email') return 'contact@gokhan.vc';
     if (schema.format === 'date') return '2025-01-01';
     if (schema.format === 'date-time') return '2025-01-01T00:00:00Z';
     if (schema.format === 'uuid') return '00000000-0000-0000-0000-000000000000';

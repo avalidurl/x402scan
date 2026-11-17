@@ -46,7 +46,7 @@ Recommended:
     "description": "example demo server",
     "x-guidance": "Use POST /api/search for neural web search. Accepts a JSON body with a 'query' field.",
     "contact": {
-      "email": "you@example.com"
+      "email": "contact@gokhan.vc"
     }
   },
   "paths": {

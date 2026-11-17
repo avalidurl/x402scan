@@ -209,7 +209,7 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 ## 13) How to Contact Us
 
-**Email:** [privacy@merit.systems](mailto:privacy@merit.systems)
+**Email:** [contact@gokhan.vc](mailto:contact@gokhan.vc)
 **Mail:** 224 West 35th Street, Ste 500 #2218, New York, NY 10001, USA
 
 If you are in the EEA/UK and believe we have not adequately addressed your concern, you may have the right to lodge a complaint with your local supervisory authority.
@@ -226,7 +226,7 @@ If you are in the EEA/UK and believe we have not adequately addressed your conce
 
 **Disclosures:** See **How We Disclose Information** above (service providers/processors, AI providers when you use chat, analytics, infrastructure). We do **not** sell personal information and do **not** “share” it for cross‑context behavioral advertising.
 
-**Your CPRA rights:** Access, deletion, correction, portability, and to limit use/disclosure of sensitive PI (not applicable based on our current practices). You also have the right to be free from discrimination for exercising your rights. To exercise rights, contact **[privacy@merit.systems](mailto:privacy@merit.systems)**. We may verify your request and ask for additional information to confirm your identity.
+**Your CPRA rights:** Access, deletion, correction, portability, and to limit use/disclosure of sensitive PI (not applicable based on our current practices). You also have the right to be free from discrimination for exercising your rights. To exercise rights, contact **[contact@gokhan.vc](mailto:contact@gokhan.vc)**. We may verify your request and ask for additional information to confirm your identity.
 
 **Retention:** See **Data Retention** above.
 
@@ -243,7 +243,7 @@ If you are in the EEA/UK and believe we have not adequately addressed your conce
 - **Consent:** marketing emails, certain cookies/analytics where required, and any other processing we identify as based on consent.
 - **Legal obligation:** where processing is necessary to comply with applicable law.
 
-**Your rights:** Access, rectification, erasure, restriction, objection, portability, and withdrawal of consent (where processing is based on consent). To exercise rights, contact **[privacy@merit.systems](mailto:privacy@merit.systems)**. You may also lodge a complaint with your local supervisory authority.
+**Your rights:** Access, rectification, erasure, restriction, objection, portability, and withdrawal of consent (where processing is based on consent). To exercise rights, contact **[contact@gokhan.vc](mailto:contact@gokhan.vc)**. You may also lodge a complaint with your local supervisory authority.
 
 **International transfers:** See **International Data Transfers** above; we rely on appropriate safeguards (e.g., SCCs) for transfers outside the EEA/UK.
 
