@@ -28,7 +28,7 @@
   "dependencies": {
     "@clack/prompts": "^0.11.0",
     "@iarna/toml": "^2.2.5",
-    "@modelcontextprotocol/sdk": "^1.25.3",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "@x402/core": "catalog:x402",
     "@x402/evm": "catalog:x402",
     "@x402/extensions": "catalog:x402",
